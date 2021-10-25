@@ -1,1 +1,1 @@
-These  are my notebooks from my exercises from IBM data Science course.
+These notebooks are from my first labs in the IBM data Science Professional Cert Course.
